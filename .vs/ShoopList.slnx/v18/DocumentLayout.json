@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yael\\source\\repos\\ShoopList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yael\\source\\repos\\ShoopList\\Libros.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Libros.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|c:\\users\\yael\\source\\repos\\shooplist\\shooplist.muai\\viwesmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|solutionrelative:shooplist.muai\\viwesmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|c:\\users\\yael\\source\\repos\\shooplist\\shooplist.muai\\viwes\\editshoplisttempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|solutionrelative:shooplist.muai\\viwes\\editshoplisttempage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|c:\\users\\yael\\source\\repos\\shooplist\\shooplist.muai\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|solutionrelative:shooplist.muai\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|c:\\users\\yael\\source\\repos\\shooplist\\shooplist.muai\\models\\shoplistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|solutionrelative:shooplist.muai\\models\\shoplistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|c:\\users\\yael\\source\\repos\\shooplist\\shooplist.muai\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267CCF6F-CDE2-2572-535C-7ABEBD700F5D}|ShoopList.Muai\\ShoopList.Muai.csproj|solutionrelative:shooplist.muai\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yael\\source\\repos\\ShoopList\\Libros.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Libros.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libros.sql ",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\Libros.sql",
+              "RelativeDocumentMoniker": "Libros.sql",
+              "ToolTip": "Libros.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-11-10T15:41:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ShoopList.Muai\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\AppShell.xaml.cs",
+              "RelativeToolTip": "ShoopList.Muai\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T16:37:45.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\ViwesModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ShoopList.Muai\\ViwesModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\ViwesModel\\MainViewModel.cs",
+              "RelativeToolTip": "ShoopList.Muai\\ViwesModel\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T15:11:49.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditShopListtemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\Viwes\\EditShopListtemPage.xaml",
+              "RelativeDocumentMoniker": "ShoopList.Muai\\Viwes\\EditShopListtemPage.xaml",
+              "ToolTip": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\Viwes\\EditShopListtemPage.xaml",
+              "RelativeToolTip": "ShoopList.Muai\\Viwes\\EditShopListtemPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-06T16:04:41.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopListitem.cs",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\Models\\ShopListitem.cs",
+              "RelativeDocumentMoniker": "ShoopList.Muai\\Models\\ShopListitem.cs",
+              "ToolTip": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\Models\\ShopListitem.cs",
+              "RelativeToolTip": "ShoopList.Muai\\Models\\ShopListitem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T18:21:21.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ShoopList.Muai\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\yael\\source\\repos\\ShoopList\\ShoopList.Muai\\AppShell.xaml",
+              "RelativeToolTip": "ShoopList.Muai\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-04T18:16:14.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

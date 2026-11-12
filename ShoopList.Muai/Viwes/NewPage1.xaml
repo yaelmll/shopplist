@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewsmodels="clr-namespace:ShoopList.Muai.ViewModels"
+             xalms:model="viewsmodels:NewPage1ViewModel"
+             x:Class="ShoopList.Muai.Viwes.NewPage1"
+             Title="Lista de Compras">
+   
+    <Grid>
+        <CollectionVie
+            Margin="8"
+            BackgroundColor="Beige"
+            EmptyView="Aun no se han registrado elementos en la lista "
+            ItemSource ="{Binding Items}">
+            <CollectionView.ItemTmeplate>
+                <DataTemplate>
+                    x:DataType="{X:type models:ShoppingItem }">
+                    <Border
+                        Stroke="DarkGrey"
+                        StrokeThickness="1">
+                        Padding="4,0"
+                        
+                        <Grid
+                            ColumnDefinitions="3*,*,Auto">
+                            <Label
+                                Grid.Column="0"
+                                Text="{Binding Cantidad}"
+                                FontSize="16"
+                                VerticalOptions="Center"
+                            />
+                            <Label
+                                Grid.Column="1"
+                                Text="{Binding Nombre}"
+                                FontSize="16"
+                                VerticalOptions="Center"
+                            />
+                            <HorizontalStackLayout
+                                Grid.Column="2">    
+                            <CheckBox
+                                IsChecked="{Binding Comprando}"
+                                <Label
+                                Text="comprado"/>
+                            </HorizontalStackLayout>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTmeplate>
+            <CollectionView>
+                <Bottom
+                    text="+"
+                    commad="{Binding ShowNewItemFormCommand}"
+                    
+                </Bottom>
+            </CollectionView>
+    </Grid>
+</ContentPage>
